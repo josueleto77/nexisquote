@@ -1,7 +1,7 @@
 <?php
 
 //$recipients = 'test@demolink.com';
-$recipients = 'manzoorhussain84074@gmail.com';
+$recipients = 'info@nxispwr.com';
 
 try {
     require './phpmailer/PHPMailerAutoload.php';
